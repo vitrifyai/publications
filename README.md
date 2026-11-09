@@ -15,9 +15,6 @@ Laboratory: papers and preprints, trained models, datasets and code. Scan the co
 | **Bacterial morphology with YOLOv11**: *Automated Bacterial Identification and Morphological Feature Analysis in Low-Dose Cryo-EM Using YOLOv11* (Madugula et al.) | [bioRxiv 10.64898/2025.12.06.692658](https://doi.org/10.64898/2025.12.06.692658) | [Advanced Intelligent Discovery, doi:10.1002/aidi.202500241](https://doi.org/10.1002/aidi.202500241) | [dataset at the ORNL DOE data archive](https://doi.ccs.ornl.gov/dataset/76ab2c53-4e3f-5867-afe2-a34bbd533854) |
 | **CryoBlob**: JAX based, JIT compiled feature finding for low SNR cryo-EM images (Mukherjee, Williams, Cox, McDonnell, Borisevich) | software release [doi:10.5281/zenodo.15548974](https://doi.org/10.5281/zenodo.15548974) | SoftwareX, in revision | [debangshu-mukherjee/cryoblob](https://github.com/debangshu-mukherjee/cryoblob), [documentation](https://cryoblob.readthedocs.io) |
 
-Two further ACORN papers (overlap metrics versus size-distribution bias, and SAM 3 prompt vocabulary) are in
-preparation and will be added here when posted.
-
 ## Models
 
 - **ACORN task models** (YOLO weights trained in ACORN on cryo-TEM nanoparticles and SEM spores): checkpoints and
