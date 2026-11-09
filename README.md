@@ -1,6 +1,6 @@
 # Papers, models, data and code
 
-One page for everything from the eMMA group's model-assisted electron microscopy work at Oak Ridge National
+One page for everything from the eMMA group's cryoEM of bio-materials work at Oak Ridge National
 Laboratory: papers and preprints, trained models, datasets and code. Scan the code below or bookmark this page.
 
 <p align="center"><img src="qr/publications_qr.png" width="180" alt="QR code linking to this page"></p>
