@@ -1,4 +1,4 @@
-# Papers, models, data and code
+# Papers, models, data, and code
 
 One page for everything from the eMMA group's cryoEM of bio-materials work at Oak Ridge National
 Laboratory: papers and preprints, trained models, datasets and code. Scan the code below or bookmark this page.
